@@ -32,8 +32,8 @@ education:
   - course: BSc in Information Technology (Honours).
     institution: Vietnam National University, HCMC (University of Science), Vietnam
     year: 2013
-	GPA: 3.82/4.0
-	rank: 3/47 (honor program), 3/303 (the faculty) and 5/1635 (the university)
+	#GPA: 3.82/4.0
+	#rank: 3/47 (honor program), 3/303 (the faculty) and 5/1635 (the university)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
