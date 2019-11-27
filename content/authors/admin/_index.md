@@ -21,21 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visual place recognition
+- Visual SLAM
+- 3D Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science (expected 3/2021)
+    institution: The University of Adelaide
+  - course: BSc in Information Technology (Honours).
+    institution: Vietnam National University, HCMC (University of Science), Vietnam
+    year: 2013
+	GPA: 3.82/4.0
+	rank: 3/47 (honor program), 3/303 (the faculty) and 5/1635 (the university)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +42,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:dung.doan@adelaide.edu.au".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Ch9rZ_kAAAAJ&hl=vi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dadung
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1px0sS9p5-gp4_RE59x8weErMOvrVj0dk/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
